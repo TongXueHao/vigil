@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.tongxuehao</groupId>
     <artifactId>vigil</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <name>vigil</name>
     <description>vigil</description>
     <developers>
@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>2.7.18</version>
+            <version>2.1.1.RELEASE</version>
             <scope>provided</scope>
         </dependency>
 
