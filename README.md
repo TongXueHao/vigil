@@ -42,7 +42,7 @@ Vigil 是一个基于 Spring Boot 的 JVM 监控和实时日志流式传输工�
 <dependency>
     <groupId>io.github.tongxuehao</groupId>
     <artifactId>vigil</artifactId>
-    <version>1.0</version>
+    <version>${latest}</version>
 </dependency>
 ```
 
